@@ -1,0 +1,13 @@
+<style>
+  div {
+    background: linear-gradient(35deg, hsl(180, 100%, 90%), hsl(0, 100%, 90%));
+    border-radius: 20px;
+    width: 70%;
+    height: 400px;
+    margin: 50px auto;
+
+  }
+
+</style>
+
+<div></div>
